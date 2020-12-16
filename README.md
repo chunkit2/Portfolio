@@ -9,4 +9,4 @@ https://chunkit2.github.io/Portfolio/
 https://github.com/chunkit2/Portfolio
 
 ## Screenshot of Website
-![alt text](https://raw.githubusercontent.com/chunkit2/Portfolio/main/Website-screenshot.JPG)
+![image](https://raw.githubusercontent.com/chunkit2/Portfolio/main/assets/image/Website-screenshot.JPG)
