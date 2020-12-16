@@ -58,10 +58,14 @@ body {
   border: 1px solid rgba(86, 61, 124, .2);
 }
 .hoerison {
-  width: 550px;
+  width: 100%;
   height: 350px;
 }
+
+.band {
+  width: 100%;
+}
 .coming-soon{
-  width: 550px;
+  width: 100%;
   height: 350px
   }
